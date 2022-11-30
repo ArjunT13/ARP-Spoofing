@@ -21,3 +21,4 @@ A passive monitoring or scanning is performed to sniff the packets in the networ
 And then, we compare the two. If they are not the same, then we are definitely under an ARP spoof attack
 
 # Results of ARP Spoof Attack Detection (Using WireShark)
+![Screenshot (17988)](https://user-images.githubusercontent.com/93787273/204869940-c1ef71fb-3da0-4605-95b0-830b90d56191.png)
